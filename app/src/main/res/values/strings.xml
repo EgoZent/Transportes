@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transportes</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="fran">Francisco Javier Gil Ballesteros</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
